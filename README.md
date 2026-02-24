@@ -13,7 +13,7 @@ N'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/steeve
 
 ---
 
-## 🇬🇧 English
+## ca English
 
 This repository contains my resume in both languages.
 
